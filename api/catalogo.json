@@ -1,6 +1,23 @@
 {
+  "achocolatado":"",
   "acucar":[
+    "cristal",
+    "confeiteiro",
     "mascavo",
-    "cristal"
-  ]
+  ],
+  "arroz":[
+    "branco",
+    "integral",
+  ],
+  "atum":"",
+  "azeite":"",
+  "azeitona":[
+    "verde"
+    "preta",
+  ],
+  "batata":[
+    "palha",
+  ],
+  "baunilha":"",
+  "bolacha":""
 }
