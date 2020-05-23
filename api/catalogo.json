@@ -1,10 +1,20 @@
 {
+  "abacate":"",
+  "abacaxi":"",
+  "abobrinha":"",
   "achocolatado":"",
   "acucar":[
     "cristal",
     "confeiteiro",
     "mascavo"
   ],
+  "agrião":"",
+  "agua":[
+    "normal",
+    "coco"
+  ],
+  "alface":"",
+  "alho":"",
   "arroz":[
     "branco",
     "integral"
@@ -15,9 +25,113 @@
     "verde",
     "preta"
   ],
+  "bacon":"",
   "batata":[
     "palha"
   ],
   "baunilha":"",
-  "bolacha":""
+  "bolacha":[
+    "agua e sal",
+    "maisena",
+    "polvilho"
+    "recheada",
+    "wafer",
+  ],
+  "bombom":"",
+  "café":[
+    "moido",
+    "soluvel"
+  ],
+  "carne":[
+    "bovina",
+    "frango",
+    "peixe",
+    "porco"
+  ],
+  "cereal":"",
+  "cerveja":"",
+  "chá":"",
+  "champignon":"",
+  "chocolate":[
+    "ao leite"
+    "branco",
+    "meio amargo",
+  ],
+  "coco":[
+    "ralado"
+  ],
+  "creme de leite":"",
+  "farinha":[
+    "mandioca",
+    "milho",
+    "rosca",
+    "trigo",
+  ],
+  "feijao":[
+    "branco",
+    "carioca",
+    "corda"
+    "fradinho",
+    "preto",
+  ],
+  "fermento":[
+    "biologico",
+    "quimico"
+  ],
+  "gelatina":[
+    "com sabor",
+    "sem sabor"
+  ],
+  "geleia":"",
+  "hamburguer":"",
+  "iogurte":"",
+  "ketchup":"",
+  "leite":[
+    "caixa",
+    "coco"
+    "condensado",
+    "em po"
+  ],
+  "linguica":"",
+  "macarrão":[
+    "espaguete",
+    "fettuccine",
+    "fidelini",
+    "gravata",
+    "ninho",
+    "parafuso",
+    "penne",
+  ],
+  "maionese":"",
+  "manteiga":"",
+  "margarina":"",
+  "molho":[
+    "barbecue",
+    "3 em 1",
+    "tomate"
+  ],
+  "mortadela":"",
+  "mostarda":"",
+  "polvilho":[
+    "azedo",
+    "doce"
+  ],
+  "presunto":"",
+  "queijo":[
+    "curado"
+    "fresco",
+    "ralado",
+  ],
+  "refrigerante":"",
+  "requeijao":"",
+  "sal":[
+    "grosso",
+    "refinado"
+  ],
+  "salame":"",
+  "salsicha":"",
+  "sardinha":"",
+  "suco":"",
+  "tempero":"",
+  "vinho":""
 }
