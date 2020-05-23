@@ -35,7 +35,7 @@
     "maisena",
     "polvilho"
     "recheada",
-    "wafer",
+    "wafer"
   ],
   "bombom":"",
   "café":[
@@ -55,7 +55,7 @@
   "chocolate":[
     "ao leite"
     "branco",
-    "meio amargo",
+    "meio amargo"
   ],
   "coco":[
     "ralado"
@@ -65,14 +65,14 @@
     "mandioca",
     "milho",
     "rosca",
-    "trigo",
+    "trigo"
   ],
   "feijao":[
     "branco",
     "carioca",
     "corda"
     "fradinho",
-    "preto",
+    "preto"
   ],
   "fermento":[
     "biologico",
@@ -100,7 +100,7 @@
     "gravata",
     "ninho",
     "parafuso",
-    "penne",
+    "penne"
   ],
   "maionese":"",
   "manteiga":"",
@@ -120,7 +120,7 @@
   "queijo":[
     "curado"
     "fresco",
-    "ralado",
+    "ralado"
   ],
   "refrigerante":"",
   "requeijao":"",
