@@ -33,7 +33,7 @@
   "bolacha":[
     "agua e sal",
     "maisena",
-    "polvilho"
+    "polvilho",
     "recheada",
     "wafer"
   ],
@@ -53,7 +53,7 @@
   "chá":"",
   "champignon":"",
   "chocolate":[
-    "ao leite"
+    "ao leite",
     "branco",
     "meio amargo"
   ],
@@ -70,7 +70,7 @@
   "feijao":[
     "branco",
     "carioca",
-    "corda"
+    "corda",
     "fradinho",
     "preto"
   ],
@@ -88,7 +88,7 @@
   "ketchup":"",
   "leite":[
     "caixa",
-    "coco"
+    "coco",
     "condensado",
     "em po"
   ],
@@ -118,7 +118,7 @@
   ],
   "presunto":"",
   "queijo":[
-    "curado"
+    "curado",
     "fresco",
     "ralado"
   ],
