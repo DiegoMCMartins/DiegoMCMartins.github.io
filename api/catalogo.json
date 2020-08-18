@@ -1,137 +1,282 @@
 {
-  "abacate":"",
-  "abacaxi":"",
-  "abobrinha":"",
-  "achocolatado":"",
-  "acucar":[
-    "cristal",
-    "confeiteiro",
-    "mascavo"
+  "Abacate": [],
+  "Abacaxi": [],
+  "Abobora": [
+    "Caipira",
+    "Camutia",
+    "Verde"
   ],
-  "agrião":"",
-  "agua":[
-    "normal",
-    "coco"
+  "Achocolatado": [],
+  "Acucar": [
+    "Cristal",
+    "Confeiteiro",
+    "Demerara",
+    "Mascavo"
   ],
-  "alface":"",
-  "alho":"",
-  "arroz":[
-    "branco",
-    "integral"
+  "Agrião": [],
+  "Agua": [
+    "Normal",
+    "Coco",
+    "Sanitaria",
+    "com Gás"
   ],
-  "atum":"",
-  "azeite":"",
-  "azeitona":[
-    "verde",
-    "preta"
+  "Alface": [],
+  "Alho": [
+    "Branco",
+    "Frito",
+    "Poro",
+    "Roxo"
   ],
-  "bacon":"",
-  "batata":[
-    "palha"
+  "Amaciante": [],
+  "Arroz": [
+    "Branco",
+    "Integral"
   ],
-  "baunilha":"",
-  "bolacha":[
-    "agua e sal",
-    "maisena",
-    "polvilho",
-    "recheada",
-    "wafer"
+  "Atum": [],
+  "Azeite": [],
+  "Azeitona": [
+    "Preta",
+    "Verde"
   ],
-  "bombom":"",
-  "café":[
-    "moido",
-    "soluvel"
+  "Bacon": [],
+  "Banana": [
+    "Prata",
+    "Maca",
+    "Nanica",
+    "Terra"
   ],
-  "carne":[
-    "bovina",
-    "frango",
-    "peixe",
-    "porco"
+  "Banha": [],
+  "Batata": [
+    "Baroa",
+    "Escovada",
+    "Lavada",
+    "Palha"
   ],
-  "cereal":"",
-  "cerveja":"",
-  "chá":"",
-  "champignon":"",
-  "chocolate":[
-    "ao leite",
-    "branco",
-    "meio amargo"
+  "Baunilha": [],
+  "Beringela": [],
+  "Bolacha": [
+    "Agua e Sal",
+    "Amanteigada",
+    "Maisena",
+    "Polvilho",
+    "Recheada",
+    "Wafer"
   ],
-  "coco":[
-    "ralado"
+  "Bolo": [],
+  "Bucha": [
+    "Banho",
+    "Cozinha"
   ],
-  "creme de leite":"",
-  "farinha":[
-    "mandioca",
-    "milho",
-    "rosca",
-    "trigo"
+  "Café": [
+    "Moido",
+    "Soluvel"
   ],
-  "feijao":[
-    "branco",
-    "carioca",
-    "corda",
-    "fradinho",
-    "preto"
+  "Canjiquinha": [],
+  "Carne": [
+    "Bovina",
+    "Frango",
+    "Peixe",
+    "Porco"
   ],
-  "fermento":[
-    "biologico",
-    "quimico"
+  "Carvao": [],
+  "Cebola": [
+    "Branca",
+    "Roxa"
   ],
-  "gelatina":[
-    "com sabor",
-    "sem sabor"
+  "Cenoura": [],
+  "Cereal": [],
+  "Cerveja": [],
+  "Chá": [],
+  "Champignon": [],
+  "Chocolate": [
+    "Ao Leite",
+    "Branco",
+    "Caixa",
+    "Meio Amargo"
   ],
-  "geleia":"",
-  "hamburguer":"",
-  "iogurte":"",
-  "ketchup":"",
-  "leite":[
-    "caixa",
-    "coco",
-    "condensado",
-    "em po"
+  "Coco": [
+    "Ralado"
   ],
-  "linguica":"",
-  "macarrão":[
-    "espaguete",
-    "fettuccine",
-    "fidelini",
-    "gravata",
-    "ninho",
-    "parafuso",
-    "penne"
+  "Couve": [],
+  "Creme": [
+    "de Leite",
+    "de Cebola"
   ],
-  "maionese":"",
-  "manteiga":"",
-  "margarina":"",
-  "molho":[
-    "barbecue",
+  "Desengordurante": [],
+  "Desinfetante": [],
+  "Desodorante": [],
+  "Detergente": [],
+  "Farinha": [
+    "de Mandioca",
+    "de Milho",
+    "de Rosca",
+    "de Trigo"
+  ],
+  "Feijao": [
+    "Branco",
+    "Carioca",
+    "Preto"
+  ],
+  "Fermento": [
+    "Biologico",
+    "Quimico"
+  ],
+  "Filtro": [
+    "Café",
+    "Vela"
+  ],
+  "Gelatina": [
+    "com Sabor",
+    "sem Sabor"
+  ],
+  "Geleia": [],
+  "Hamburguer": [
+    "de Boi",
+    "de Frango"
+  ],
+  "Iogurte": [],
+  "Ketchup": [],
+  "Leite": [
+    "Caixa",
+    "Condensado",
+    "de Coco",
+    "em Po"
+  ],
+  "Lenco": [
+    "Umedecido"
+  ],
+  "Linguica": [],
+  "Maca": [
+    "Argentina",
+    "Gala",
+    "Verde"
+  ],
+  "Macarrão": [
+    "Espaguete",
+    "Fettuccine",
+    "Fidelini",
+    "Gravata",
+    "de Lasanha",
+    "Ninho",
+    "Parafuso",
+    "Penne"
+  ],
+  "Maionese": [],
+  "Manteiga": [],
+  "Margarina": [],
+  "Massa": [
+    "de Bolo",
+    "de Pastel"
+  ],
+  "Milho": [
+    "de Pipoca",
+    "Espiga"
+  ],
+  "Molho": [
+    "Barbecue",
     "3 em 1",
-    "tomate"
+    "de Tomate"
   ],
-  "mortadela":"",
-  "mostarda":"",
-  "polvilho":[
-    "azedo",
-    "doce"
+  "Morango": [],
+  "Mortadela": [],
+  "Mostarda": [],
+  "Oleo": [],
+  "Ovo": [
+    "Codorna",
+    "Galinha"
   ],
-  "presunto":"",
-  "queijo":[
-    "curado",
-    "fresco",
-    "ralado"
+  "Palmito": [],
+  "Pao": [
+    "Baguete",
+    "Bisnaguinha",
+    "de Alho",
+    "de Cachorro Quente",
+    "de Forma",
+    "de Hamburguer",
+    "de Queijo",
+    "Frances",
   ],
-  "refrigerante":"",
-  "requeijao":"",
-  "sal":[
-    "grosso",
-    "refinado"
+  "Papel": [
+    "Aluminio",
+    "Filme",
+    "Higienico",
+    "Manteiga",
+    "Toalha",
   ],
-  "salame":"",
-  "salsicha":"",
-  "sardinha":"",
-  "suco":"",
-  "tempero":"",
-  "vinho":""
+  "Pasta": [
+    "de Dente"
+  ],
+  "Polvilho": [
+    "Azedo",
+    "Doce",
+    "Tapioca"
+  ],
+  "Presunto": [],
+  "Queijo": [
+    "Brie",
+    "Cheddar",
+    "Coalho",
+    "Curado",
+    "Fresco",
+    "Gorgonzola",
+    "Ralado",
+    "Ricota",
+    "Mussarela",
+    "Provolone",
+    "Requeijao"
+  ],
+  "Racao": [
+    "Cachorros"
+  ],
+  "Refrigerante": [],
+  "Sabao": [
+    "em Barra",
+    "em Pó"
+  ],
+  "Sabonete": [
+    "Barra",
+    "Liquido"
+  ],
+  "Saco": [
+    "de Lixo",
+    "de Mantimentos"
+  ],
+  "Shampoo": [
+    "Adulto",
+    "Condicionador",
+    "Cachorros"
+  ],
+  "Sal": [
+    "Grosso",
+    "Refinado"
+  ],
+  "Salame": [],
+  "Salsicha": [],
+  "Sardinha": [],
+  "Suco": [
+    "Saquinho",
+    "Caixa",
+    "Caixinha",
+    "Garrafa"
+  ],
+  "Tomate": [
+    "Caqui",
+    "Cereja",
+    "Italiano",
+  ],
+  "Tempero": [],
+  "Trigo": [],
+  "Uva": [
+    "Rosada",
+    "Verde",
+    "Tompson"
+  ],
+  "Vagem": [],
+  "Vinagre": [
+    "Balsamico",
+    "de Alcool",
+    "de Arroz",
+    "de Maca"
+  ],
+  "Vinho": []
 }
